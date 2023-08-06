@@ -1,0 +1,3 @@
+data/*
+model 64/*.pth
+model 128/*.pth
